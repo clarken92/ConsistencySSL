@@ -79,10 +79,13 @@ I also provide a `run_cifar10.sh` file as an example for you.
 If you find this repository useful for your research, please consider citing our paper:
 
 ```bibtex
-@article{do2020semi,
-  author  = {Do, Kien and Tran, Truyen and Venkatesh, Svetha},
-  title   = {Semi-Supervised Learning with Variational Bayesian Inference and Maximum Uncertainty Regularization},
-  journal = {arXiv preprint arXiv:2012.01793},
-  year    = {2020},
+@inproceedings{do2021semi,
+  title={Semi-Supervised Learning with Variational Bayesian Inference and Maximum Uncertainty Regularization},
+  author={Do, Kien and Tran, Truyen and Venkatesh, Svetha},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={35},
+  number={8},
+  pages={7236--7244},
+  year={2021}
 }
 ```
